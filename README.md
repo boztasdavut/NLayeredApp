@@ -2,13 +2,13 @@
 Eğitmen, kategori ve kurs bölümlerini katmanlı mimaride kodlanmıştır.
 
 Aşağıdaki isterler yerine getirilmiştir.
--Kurs ismi tekrar edemez
--Kategori ismi tekrar edemez
--Bir kursun fiyatı 0 dan küçük olamaz
+1.Kurs ismi tekrar edemez
+2.Kategori ismi tekrar edemez
+3.Bir kursun fiyatı 0 dan küçük olamaz
 
 Instructor, category and course sections are coded in a layered architecture.
 
 The following requirements have been fulfilled.
--The course name cannot be repeated
--Category name cannot be repeated
--The price of a course cannot be less than 0
+1.The course name cannot be repeated
+2.Category name cannot be repeated
+3.The price of a course cannot be less than 0
