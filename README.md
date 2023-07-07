@@ -13,4 +13,4 @@ The following requirements have been fulfilled.
 
 1) The course name cannot be repeated
 2) Category name cannot be repeated
-3)The price of a course cannot be less than 0
+3) The price of a course cannot be less than 0
